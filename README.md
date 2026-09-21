@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 - 🎓 BSc CSIT graduate from **Shreeyantra College**
-- 💼 Check out my personal portfolio site — built with React + HTML/CSS: menuka86.github.io
--🔭 I'm currently strengthening my QA & testing skills (Postman, Jira, JMeter)
--🌱 I'm learning Python, Java, and Software QA (manual testing, API testing with Postman, Jira, JMeter)
+- 💼 Check out my personal portfolio site — built with React + HTML/CSS: **[menuka86.github.io](https://menuka86.github.io)**
+- 🔭 I'm currently strengthening my **QA & testing skills** (Postman, Jira, JMeter)
+- 🌱 I'm learning **Python, Java, and Software QA** (manual testing, API testing with Postman, Jira, JMeter)
 - 🤝 I'm looking to collaborate on **frontend projects and QA/testing practice**
 - 💬 Ask me about **HTML, CSS, React, or QA fundamentals**
 - 📫 Reach me: **menuka.mukhiya04@gmail.com**
@@ -29,6 +29,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Menuka86&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menuka86&layout=compact&theme=tokyonight" />
+</p>
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menuka-mukhiya-6aa196354)
