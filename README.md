@@ -9,8 +9,9 @@
 
 ### 🚀 About Me
 - 🎓 BSc CSIT graduate from **Shreeyantra College**
-- 🔭 I'm currently working on my **personal portfolio site** (React + HTML/CSS)
-- 🌱 I'm learning **Python, Java, and Software QA** (manual testing, API testing with Postman, Jira, JMeter)
+- 💼 Check out my personal portfolio site — built with React + HTML/CSS: menuka86.github.io
+-🔭 I'm currently strengthening my QA & testing skills (Postman, Jira, JMeter)
+-🌱 I'm learning Python, Java, and Software QA (manual testing, API testing with Postman, Jira, JMeter)
 - 🤝 I'm looking to collaborate on **frontend projects and QA/testing practice**
 - 💬 Ask me about **HTML, CSS, React, or QA fundamentals**
 - 📫 Reach me: **menuka.mukhiya04@gmail.com**
